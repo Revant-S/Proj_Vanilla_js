@@ -1,6 +1,6 @@
 
-const API_KEY = "YOURAPIKEY";
-let api_url ="https://api.api-ninjas.com/v1/quotes?category=";
+const API_KEY = "yjtujj/iCasyyyCnysC8Ig==PpZVU4m8cyOa6YGd";
+let baseurl ="https://api.api-ninjas.com/v1/quotes?category=";
 
 async function getQuote(url)
 {
